@@ -9,7 +9,7 @@ This project compared return percentages for twelve stock listings for 2017 and 
 ## Results
 The numbers showed that the Total Daily Volumes for the stocks were comparable for each year, but the Returns were vastly different.  The Average Return for 2017 was 67.32%, while 2018 had -8.51%.  Only one stock in 2017 had a negative return, but, in 2018, only two had a positive return.
 
-<img src="Resources/All_Stocks_2017.png" width="400">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/All_Stocks_2017.png" width="400">  
+<img src="Resources/All_Stocks_2017.png" width="400">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/All_Stocks_2018.png" width="400">  
 
 
 
