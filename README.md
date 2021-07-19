@@ -13,9 +13,9 @@ The numbers showed that the Total Daily Volumes for the stocks were comparable f
 
 
 
-Refactoring the code as requested resulted in a small savings on processing time.  Although small, this could result in a major reduction when used against a larger dataset.  I also refactored the code in a different way, which resulted in additional processing time savings. 
+Refactoring the code as requested resulted in a small savings on processing time.  Although small, this could result in a major reduction when used against a larger dataset.  The original code ran for one second for 2017 and 0.9765625 for 2018.  The run times for the refactored code were 0.9296875 for 2017 and 0.921875 for 2018.
 
-
+<img src="Resources/VBA_Challenge_2017.png" width="400">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/VBA_Challenge_2018.png" width="400"> 
 <img src="Resources/VBA_Challenge_2017.png" width="400">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/VBA_Challenge_2018.png" width="400"> 
 
 
